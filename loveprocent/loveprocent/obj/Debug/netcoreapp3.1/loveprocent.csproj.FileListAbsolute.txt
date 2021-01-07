@@ -1,0 +1,26 @@
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.exe
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.deps.json
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.runtimeconfig.json
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.runtimeconfig.dev.json
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.dll
+D:\Programing\test c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.pdb
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.csprojAssemblyReference.cache
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.AssemblyInfoInputs.cache
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.AssemblyInfo.cs
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.csproj.CoreCompileInputs.cache
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.dll
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.pdb
+D:\Programing\test c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.genruntimeconfig.cache
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.exe
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.deps.json
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.runtimeconfig.json
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.runtimeconfig.dev.json
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.dll
+D:\programing\c#\loveprocent\loveprocent\bin\Debug\netcoreapp3.1\loveprocent.pdb
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.csprojAssemblyReference.cache
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.AssemblyInfoInputs.cache
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.AssemblyInfo.cs
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.csproj.CoreCompileInputs.cache
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.dll
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.pdb
+D:\programing\c#\loveprocent\loveprocent\obj\Debug\netcoreapp3.1\loveprocent.genruntimeconfig.cache

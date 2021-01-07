@@ -1,0 +1,10 @@
+D:\programing\c#\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+D:\programing\c#\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe
+D:\programing\c#\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.pdb
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csprojAssemblyReference.cache
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.exe
+D:\programing\c#\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.pdb

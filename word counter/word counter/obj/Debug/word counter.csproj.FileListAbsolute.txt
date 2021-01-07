@@ -1,0 +1,10 @@
+D:\Programing\test c#\word counter\word counter\bin\Debug\word counter.exe.config
+D:\Programing\test c#\word counter\word counter\bin\Debug\word counter.exe
+D:\Programing\test c#\word counter\word counter\bin\Debug\word counter.pdb
+D:\Programing\test c#\word counter\word counter\obj\Debug\word counter.csprojAssemblyReference.cache
+D:\Programing\test c#\word counter\word counter\obj\Debug\word_counter.Form1.resources
+D:\Programing\test c#\word counter\word counter\obj\Debug\word_counter.Properties.Resources.resources
+D:\Programing\test c#\word counter\word counter\obj\Debug\word counter.csproj.GenerateResource.cache
+D:\Programing\test c#\word counter\word counter\obj\Debug\word counter.csproj.CoreCompileInputs.cache
+D:\Programing\test c#\word counter\word counter\obj\Debug\word counter.exe
+D:\Programing\test c#\word counter\word counter\obj\Debug\word counter.pdb

@@ -1,0 +1,10 @@
+D:\Programing\test c#\LeagueHistory\LeagueHistory\bin\Debug\LeagueHistory.exe.config
+D:\Programing\test c#\LeagueHistory\LeagueHistory\bin\Debug\LeagueHistory.exe
+D:\Programing\test c#\LeagueHistory\LeagueHistory\bin\Debug\LeagueHistory.pdb
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.csprojAssemblyReference.cache
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.Form1.resources
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.Properties.Resources.resources
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.csproj.GenerateResource.cache
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.csproj.CoreCompileInputs.cache
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.exe
+D:\Programing\test c#\LeagueHistory\LeagueHistory\obj\Debug\LeagueHistory.pdb

@@ -1,0 +1,10 @@
+D:\Programing\test c#\loveprocentform\loveprocentform\bin\Debug\loveprocentform.exe.config
+D:\Programing\test c#\loveprocentform\loveprocentform\bin\Debug\loveprocentform.exe
+D:\Programing\test c#\loveprocentform\loveprocentform\bin\Debug\loveprocentform.pdb
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.csprojAssemblyReference.cache
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.Form1.resources
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.Properties.Resources.resources
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.csproj.GenerateResource.cache
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.csproj.CoreCompileInputs.cache
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.exe
+D:\Programing\test c#\loveprocentform\loveprocentform\obj\Debug\loveprocentform.pdb
